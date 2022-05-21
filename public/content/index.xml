@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MBS</title>
-    <link>/</link>
-    <description>Recent content on MBS</description>
+    <title>Contents on MBS</title>
+    <link>/content/</link>
+    <description>Recent content in Contents on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 May 2022 20:39:05 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 20 May 2022 15:29:39 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>My name is Bilal aka mbs I belong to shahdadpur, a small city in Pakistan.
-Languages I can speak:
- Marwari (mother tongue) Sindhi (regional language) Urdu (national language) English (everyday).   Anything in brain is not real.
- Action and existance is the real happening.
-  </description>
-    </item>
-    
+    <lastBuildDate>Sat, 21 May 2022 20:39:05 +0800</lastBuildDate><atom:link href="/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/content/about/</link>
@@ -46,33 +33,11 @@ Languages I can speak:
     </item>
     
     <item>
-      <title>daily azkar</title>
-      <link>/posts/dailyzikr/</link>
-      <pubDate>Sat, 21 May 2022 20:39:05 +0800</pubDate>
-      
-      <guid>/posts/dailyzikr/</guid>
-      <description>Daily Azkar means the zikr that I should do on daily basis.
- First one is after fajar prayer.   After each prayer 33xSubhan Allah, 33xAlhamdulillah,34xAllah o Akbar.
-  For increase in knowledge.
-  A very powerful daily tasbeeh is 100 times Subhanallahi Wa bi hamdihi. Surah e Ikhlas equals one-third of Quran. Durood e Ibrahimi  </description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>/content/projects/</link>
       <pubDate>Fri, 20 May 2022 15:32:18 +0800</pubDate>
       
       <guid>/content/projects/</guid>
-      <description>This page is divided into &amp;lsquo;In progress&amp;rsquo; and &amp;lsquo;Completed&amp;rsquo; sections.
-In Progress     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX MSM Analytics Portal -Azure, Web App, SQlite, DJANGO Survey paper two TMM MaiVAR extention ACCV   Completed     Sensors MDPI Survey article RGB-D Data-Based Action Recognition: A Review Monthly KPI Reporting Dashboard - Google Data Studio/Google Analytics/Wordpress Distributed Machine Learning using P300 Speller handicapped patient data mFusion- Cross platform mobile application development platform   </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Fri, 20 May 2022 15:32:18 +0800</pubDate>
-      
-      <guid>/projects/</guid>
       <description>This page is divided into &amp;lsquo;In progress&amp;rsquo; and &amp;lsquo;Completed&amp;rsquo; sections.
 In Progress     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX MSM Analytics Portal -Azure, Web App, SQlite, DJANGO Survey paper two TMM MaiVAR extention ACCV   Completed     Sensors MDPI Survey article RGB-D Data-Based Action Recognition: A Review Monthly KPI Reporting Dashboard - Google Data Studio/Google Analytics/Wordpress Distributed Machine Learning using P300 Speller handicapped patient data mFusion- Cross platform mobile application development platform   </description>
     </item>
@@ -87,15 +52,6 @@ In Progress     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX MS
     </item>
     
     <item>
-      <title>ECU Guild</title>
-      <link>/posts/hugo-coder/</link>
-      <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
-      
-      <guid>/posts/hugo-coder/</guid>
-      <description>ECU Guild is separate not for profit organization at my university. I currently work there is a head of postgraduate department who has 16 school reps from each school of ECU. I have to work 16 hours every fortnight for which there is some honorarium for me. I am also a senator which is by default if you are leading one of the business units, you become part of the senate.</description>
-    </item>
-    
-    <item>
       <title>Hugo Coder theme</title>
       <link>/content/posts/ecu-guild/</link>
       <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
@@ -103,25 +59,6 @@ In Progress     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX MS
       <guid>/content/posts/ecu-guild/</guid>
       <description>Hi today, I want to talk about my interaction with hugo coder theme. I recently came across linkedin profile of a specialist data engineer, who is also instructor for some bootcamps and speaker at data related events. On his linkedin, he mentioned certain technologies which he uses for creating world class data architectures.
 For everything, he shared his professional website url. I liked this idea of having a separate page on the web where you can simply talk about what you can offer.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Coder theme</title>
-      <link>/posts/ecu-guild/</link>
-      <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
-      
-      <guid>/posts/ecu-guild/</guid>
-      <description>Hi today, I want to talk about my interaction with hugo coder theme. I recently came across linkedin profile of a specialist data engineer, who is also instructor for some bootcamps and speaker at data related events. On his linkedin, he mentioned certain technologies which he uses for creating world class data architectures.
-For everything, he shared his professional website url. I liked this idea of having a separate page on the web where you can simply talk about what you can offer.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>  Have any question you want answered?   Have a project or startup you would like to work on together?  Just use the form below to reach to me. Name    Your email     Message    Send   </description>
     </item>
     
     <item>
