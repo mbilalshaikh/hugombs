@@ -13,19 +13,19 @@
 
     <meta name="author" content="Muhammad Bilal Shaikh">
     <meta name="description" content="In this I will follow my preffered briefing method the WHAC method.
-What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from CVPR 2022, produced four transformer-based architectures to fuse these four modalities in an interesting way.
+What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from WACV 2022, produced fourtransformer-based architectures to fuse these four modalities in an interesting way.
 Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset).">
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Multimodal Action recognition in Compressed Video"/>
 <meta name="twitter:description" content="In this I will follow my preffered briefing method the WHAC method.
-What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from CVPR 2022, produced four transformer-based architectures to fuse these four modalities in an interesting way.
+What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from WACV 2022, produced fourtransformer-based architectures to fuse these four modalities in an interesting way.
 Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset)."/>
 
     <meta property="og:title" content="Multimodal Action recognition in Compressed Video" />
 <meta property="og:description" content="In this I will follow my preffered briefing method the WHAC method.
-What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from CVPR 2022, produced four transformer-based architectures to fuse these four modalities in an interesting way.
+What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from WACV 2022, produced fourtransformer-based architectures to fuse these four modalities in an interesting way.
 Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset)." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/multimodal-har1/" /><meta property="article:section" content="posts" />
@@ -176,10 +176,10 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h2>
-<p>Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Chen_MM-ViT_Multi-Modal_Video_Transformer_for_Compressed_Video_Action_Recognition_WACV_2022_paper.pdf">beautiful work</a> from <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>, produced <a href="#four">four</a>  transformer-based architectures to fuse these four modalities in an interesting way.</p>
+<p>Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Chen_MM-ViT_Multi-Modal_Video_Transformer_for_Compressed_Video_Action_Recognition_WACV_2022_paper.pdf">beautiful work</a> from WACV 2022, produced four<!-- raw HTML omitted --><!-- raw HTML omitted -->  transformer-based architectures to fuse these four modalities in an interesting way.</p>
 <p>Using the base <a href="#">Vit</a> and <a href="#">ViViT</a> models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset).</p>
 <p>This approach has mapped each modality into a representation compatible with transformer architecture which expects a parallel input in the form of patches/tokens.</p>
-<p><img src="/img/overall.png" alt="overall architecture"></p>
+<p><img src="/img/mmhar/overall.png" alt="overall architecture"></p>
 <p>This work has different interesting parts.</p>
 <h2 id="how">
   How?
@@ -188,7 +188,7 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
   </a>
 </h2>
 <p>MM-ViT converts non-audio modalities in a different way as compared to audio modality. Basically, waveform has been used for audio representation. Transformer-based abstract variables (query, key, value) were extracted for each modality and are passed through an MLP to the attention mechanism. As mentioned four, there are four different architectures named different on the basis of key module they use.</p>
-<p><img src="/img/mechanisms.png" alt="overall architecture"></p>
+<p><img src="/img/mmhar/mechanisms.png" alt="overall architecture"></p>
 <h2 id="are-we-sure">
   Are we sure?
   <a class="heading-link" href="#are-we-sure">
@@ -196,9 +196,10 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
   </a>
 </h2>
 <p>MM-ViT III is the best variant produced which has beaten SOTA CNN variants with and without optical flow. MM-ViT is efficient as it does not perform the heavy duty for optical flow. For qualitive view of the work picture generated from attention weights have been shared in the manuscript.</p>
-<p><img src="/img/ssv2-sota.png" alt="ssv2">
-<img src="/img/ucf-101-sota.png" alt="ucf-101">
-<img src="/img/kinetics-sota.png" alt="kinetics-600"></p>
+<p><img src="/img/mmhar/ssv2-sota.png" alt="ssv2">
+<img src="/img/mmhar/ucf-101-sota.png" alt="ucf-101">
+<img src="/img/mmhar/kinetics-sota.png" alt="kinetics-600">
+<img src="/img/mmhar/quality.png" alt="quality"></p>
 <h2 id="can-i-do-it">
   Can I do it?
   <a class="heading-link" href="#can-i-do-it">
@@ -209,6 +210,29 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
 <ul>
 <li><a href="https://github.com/chaoyuaw/pytorch-coviar">PyTorch for Compressed Video Action Recognition</a></li>
 <li><a href="https://github.com/haim-barad/action-recognition-compressed-domain">Accelerating Compressed VAR</a></li>
+</ul>
+<h2 id="critical-details">
+  Critical Details
+  <a class="heading-link" href="#critical-details">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
+<ul>
+<li>SSv2 has no audiostream</li>
+<li>all compressed videos to MPEG-4 codec which encodes a video into I-frames and P-frames.</li>
+<li>Patch size is set to 16×16 across the visual modalities.</li>
+<li>ViT-B pretarined on ImageNet-21K is the backbone</li>
+<li>SGD with batch size 8</li>
+<li>Learning rate starts from 0.5 and is divided by 10 when the validation accuracy plateaus.</li>
+<li>83 refs which is huge</li>
+<li>bad- table layout is not consistent</li>
+<li>bad- mehcanisms diagram needs improvement</li>
+<li>bad-source not provided</li>
+<li>bad-machine details not provided</li>
+<li>bad-not reproducible</li>
+<li>bad-future works not shared</li>
+<li>bad-limitations not shared</li>
+<li>May be part of a commercial project as Oppo is a popular Computer Vision Tech-based company.</li>
 </ul>
 
       </div>
