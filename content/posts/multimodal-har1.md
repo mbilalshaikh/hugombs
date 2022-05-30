@@ -1,7 +1,7 @@
 ---
 draft : false
 date : 2022-05-30T19:34:52+08:00
-title : "Multimodal Action recognition in Compressed Video"
+title : "Read1-Multimodal Action recognition in Compressed Video"
 description : ""
 slug : ""
 authors : [MBS]
