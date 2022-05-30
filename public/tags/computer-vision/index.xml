@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision on MBS</title>
+    <link>/tags/computer-vision/</link>
+    <description>Recent content in computer vision on MBS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 19:34:52 +0800</lastBuildDate><atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodal Action recognition in Compressed Video</title>
+      <link>/posts/multimodal-har1/</link>
+      <pubDate>Mon, 30 May 2022 19:34:52 +0800</pubDate>
+      
+      <guid>/posts/multimodal-har1/</guid>
+      <description>In this I will follow my preffered briefing method the WHAC method.
+What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from CVPR 2022, produced four transformer-based architectures to fuse these four modalities in an interesting way.
+Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset).</description>
+    </item>
+    
+  </channel>
+</rss>

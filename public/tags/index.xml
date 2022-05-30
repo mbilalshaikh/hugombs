@@ -6,13 +6,58 @@
     <description>Recent content in Tags on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 May 2022 20:39:05 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 19:34:52 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computer vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Mon, 30 May 2022 19:34:52 +0800</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal</title>
+      <link>/tags/multimodal/</link>
+      <pubDate>Mon, 30 May 2022 19:34:52 +0800</pubDate>
+      
+      <guid>/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>routine</title>
       <link>/tags/routine/</link>
       <pubDate>Sat, 21 May 2022 20:39:05 +0800</pubDate>
       
       <guid>/tags/routine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>council</title>
+      <link>/tags/council/</link>
+      <pubDate>Sat, 21 May 2022 19:58:55 +0800</pubDate>
+      
+      <guid>/tags/council/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecu</title>
+      <link>/tags/ecu/</link>
+      <pubDate>Sat, 21 May 2022 19:58:55 +0800</pubDate>
+      
+      <guid>/tags/ecu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phd</title>
+      <link>/tags/phd/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/tags/phd/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,18 @@
     <description>Recent content in Posts on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 May 2022 20:39:05 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 19:34:52 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodal Action recognition in Compressed Video</title>
+      <link>/posts/multimodal-har1/</link>
+      <pubDate>Mon, 30 May 2022 19:34:52 +0800</pubDate>
+      
+      <guid>/posts/multimodal-har1/</guid>
+      <description>In this I will follow my preffered briefing method the WHAC method.
+What?    Compressed video formats produced different modalities which includes i-frames, p-frames, b-frames and audio. A recent beautiful work from CVPR 2022, produced four transformer-based architectures to fuse these four modalities in an interesting way.
+Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scores on UCF101, Kinetics 600 and SomethingSomethingv2 (without audio dataset).</description>
+    </item>
+    
     <item>
       <title>daily azkar</title>
       <link>/posts/dailyzikr/</link>
@@ -17,6 +28,65 @@
  First one is after fajar prayer.   After each prayer 33xSubhan Allah, 33xAlhamdulillah,34xAllah o Akbar.
   For increase in knowledge.
   A very powerful daily tasbeeh is 100 times Subhanallahi Wa bi hamdihi. Surah e Ikhlas equals one-third of Quran. Durood e Ibrahimi  </description>
+    </item>
+    
+    <item>
+      <title>Early morning hike at King&#39;s Park</title>
+      <link>/posts/kings-parks-hike/</link>
+      <pubDate>Sat, 21 May 2022 19:58:55 +0800</pubDate>
+      
+      <guid>/posts/kings-parks-hike/</guid>
+      <description>Today I woke up early around 6:30 and after morning prayers, I left for my much needed hike at King&amp;rsquo;s Park.
+I arrived on time and met Damien, Peggy, Fred, a kenyan(don&amp;rsquo;t know the name) and Tim.
+This route of the hike had downstream-ladders, a portion to hike uphill. walk across the bushes, passing nearby river, a beautiful paranomic view of Elizabeth Quay and Swan river. I felt quite after this hike.</description>
+    </item>
+    
+    <item>
+      <title>a typical friday</title>
+      <link>/posts/friday/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/friday/</guid>
+      <description>Yes a friday.
+I wake up goto office. around juma prayer time i goto to prayer at mosque. i come back i spend time in office. i go back to asar maghrib isha i goto to home for dinner and sleep.
+Technically, I should wake up at Fajar recite Surah e Yaseen, do ghusl, off to office then before juma prayer, I should recite Surah e Kahaf and then Juma prayer, return back to office and then off around Asar and Maghrib prayer.</description>
+    </item>
+    
+    <item>
+      <title>Ashar- my son love &lt;3</title>
+      <link>/posts/ashar/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/ashar/</guid>
+      <description>Ashar is a gift of Allah and an extreme blessing for the rest of my life.</description>
+    </item>
+    
+    <item>
+      <title>Douglas- My PhD supervisor</title>
+      <link>/posts/douglas/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/douglas/</guid>
+      <description>An excellent person.</description>
+    </item>
+    
+    <item>
+      <title>ECU University Council</title>
+      <link>/posts/council/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/council/</guid>
+      <description>This is one of the amazing corporate experience, I have ever had so far.</description>
+    </item>
+    
+    <item>
+      <title>Saturday</title>
+      <link>/posts/saturday/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/saturday/</guid>
+      <description>On saturday, I will work on my VCIP manuscript first and then I will finalize it for submission on monday.
+Next I will resume ksounds work and try to extract results from ksounds. Once ksounds is done then move to k400 and get results.</description>
     </item>
     
     <item>
