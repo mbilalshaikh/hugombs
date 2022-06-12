@@ -6,7 +6,58 @@
     <description>Recent content in Posts on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 May 2022 19:34:52 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 04:51:50 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>template-title</title>
+      <link>/posts/slug/</link>
+      <pubDate>Sun, 12 Jun 2022 04:51:50 +0800</pubDate>
+      
+      <guid>/posts/slug/</guid>
+      <description>What is it?    How does it work?    Are you sure?    Can you do it?    Acknowledgments    Conclusions    References    </description>
+    </item>
+    
+    <item>
+      <title>life events</title>
+      <link>/posts/life-events/</link>
+      <pubDate>Sun, 12 Jun 2022 02:26:39 +0800</pubDate>
+      
+      <guid>/posts/life-events/</guid>
+      <description>Tasks pending
+ Tooba Shadi Hiba Shadi PhD     age events year     0 birth 1989   14 X 2006   16 XII 2006   17 BS 2007   21 BS 2011   21 ASE TRG 2011   22 Lecturer Sukkur IBA 2012   25 Lecturer Uni Sindh 2015   26 MS 2017   29 Asst: Prof Uni Sindh 2018   30 PhD ECU, Australia 2019   30 Married 2019   31 Father 2020   31 ECU Council Member 2020   32 Two Research Paper 2021   32 Data Scientist 2021   32 ECU Guild PG Officer, VP CAPA 2021   33 OxML, 5xMicrosoft, GSMIEEE, AACS 2022   *33 Second baby, 2xMicrosoft, MCT, MVP, CAR, 45L 2022    </description>
+    </item>
+    
+    <item>
+      <title>a day</title>
+      <link>/posts/a-day/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/posts/a-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Items</title>
+      <link>/posts/items/</link>
+      <pubDate>Sun, 12 Jun 2022 00:38:19 +0800</pubDate>
+      
+      <guid>/posts/items/</guid>
+      <description>My WooliesX Experience    Hi! I&amp;rsquo;m your author mbs today, I want to tell you about my recent Data Scientist job process with WooliesX. Btw this is my first time on stackedit and I’m loving it. 😍
+Azure AI Engineer Certification    I passed my 5th Microsoft Azure Certification and I registered for 6th one.
+Pie &amp;amp; AI Ambassador    I’m the official ambassador for Pie &amp;amp; AI in perth 😍</description>
+    </item>
+    
+    <item>
+      <title>Todo Marker</title>
+      <link>/posts/todo/</link>
+      <pubDate>Mon, 30 May 2022 21:06:23 +0800</pubDate>
+      
+      <guid>/posts/todo/</guid>
+      <description>Progress report submit
+ prepare draft discuss with douglas submit on portal    MAiVAR Extended
+ Add placeholders for extended results Get Ksounds results Get ESC50 results k400 results add those results to the manuscript    Survey 2
+ Convert to TMM template Add subsection for CNN and Transformer based MMHAR Update Text in copied sections Discuss modalities in modality section with mathmatics (if possible)    Job</description>
+    </item>
+    
     <item>
       <title>Read1-Multimodal Action recognition in Compressed Video</title>
       <link>/posts/multimodal-har1/</link>
@@ -28,6 +79,65 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
  First one is after fajar prayer.   After each prayer 33xSubhan Allah, 33xAlhamdulillah,34xAllah o Akbar.
   For increase in knowledge.
   A very powerful daily tasbeeh is 100 times Subhanallahi Wa bi hamdihi. Surah e Ikhlas equals one-third of Quran. Durood e Ibrahimi  </description>
+    </item>
+    
+    <item>
+      <title>Early morning hike at King&#39;s Park</title>
+      <link>/posts/kings-parks-hike/</link>
+      <pubDate>Sat, 21 May 2022 19:58:55 +0800</pubDate>
+      
+      <guid>/posts/kings-parks-hike/</guid>
+      <description>Today I woke up early around 6:30 and after morning prayers, I left for my much needed hike at King&amp;rsquo;s Park.
+I arrived on time and met Damien, Peggy, Fred, a kenyan(don&amp;rsquo;t know the name) and Tim.
+This route of the hike had downstream-ladders, a portion to hike uphill. walk across the bushes, passing nearby river, a beautiful paranomic view of Elizabeth Quay and Swan river. I felt quite after this hike.</description>
+    </item>
+    
+    <item>
+      <title>a typical friday</title>
+      <link>/posts/friday/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/friday/</guid>
+      <description>Yes a friday.
+I wake up goto office. around juma prayer time i goto to prayer at mosque. i come back i spend time in office. i go back to asar maghrib isha i goto to home for dinner and sleep.
+Technically, I should wake up at Fajar recite Surah e Yaseen, do ghusl, off to office then before juma prayer, I should recite Surah e Kahaf and then Juma prayer, return back to office and then off around Asar and Maghrib prayer.</description>
+    </item>
+    
+    <item>
+      <title>Ashar- my son love &lt;3</title>
+      <link>/posts/ashar/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/ashar/</guid>
+      <description>Ashar is a gift of Allah and an extreme blessing for the rest of my life.</description>
+    </item>
+    
+    <item>
+      <title>Douglas- My PhD supervisor</title>
+      <link>/posts/douglas/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/douglas/</guid>
+      <description>An excellent person.</description>
+    </item>
+    
+    <item>
+      <title>ECU University Council</title>
+      <link>/posts/council/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/council/</guid>
+      <description>This is one of the amazing corporate experience, I have ever had so far.</description>
+    </item>
+    
+    <item>
+      <title>Saturday</title>
+      <link>/posts/saturday/</link>
+      <pubDate>Fri, 20 May 2022 15:50:55 +0800</pubDate>
+      
+      <guid>/posts/saturday/</guid>
+      <description>On saturday, I will work on my VCIP manuscript first and then I will finalize it for submission on monday.
+Next I will resume ksounds work and try to extract results from ksounds. Once ksounds is done then move to k400 and get results.</description>
     </item>
     
     <item>
