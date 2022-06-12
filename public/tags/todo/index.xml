@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>todo on MBS</title>
+    <link>/tags/todo/</link>
+    <description>Recent content in todo on MBS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 21:06:23 +0800</lastBuildDate><atom:link href="/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo Marker</title>
+      <link>/posts/todo/</link>
+      <pubDate>Mon, 30 May 2022 21:06:23 +0800</pubDate>
+      
+      <guid>/posts/todo/</guid>
+      <description>Progress report submit
+ prepare draft discuss with douglas submit on portal    MAiVAR Extended
+ Add placeholders for extended results Get Ksounds results Get ESC50 results k400 results add those results to the manuscript    Survey 2
+ Convert to TMM template Add subsection for CNN and Transformer based MMHAR Update Text in copied sections Discuss modalities in modality section with mathmatics (if possible)    Job</description>
+    </item>
+    
+  </channel>
+</rss>
