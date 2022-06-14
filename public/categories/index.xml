@@ -5,6 +5,16 @@
     <link>/categories/</link>
     <description>Recent content in Categories on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>topics</title>
+      <link>/categories/topics/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/categories/topics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

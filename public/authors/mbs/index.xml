@@ -6,7 +6,52 @@
     <description>Recent content on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 May 2022 19:34:52 +0800</lastBuildDate><atom:link href="/authors/mbs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/authors/mbs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data analyst</title>
+      <link>/tech/da/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/tech/da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data engineering</title>
+      <link>/tech/de/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/tech/de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>/tech/ds/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/tech/ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/machine-learning/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/machine-learning/</guid>
+      <description>a brief discussion around machine learning</description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/programming/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/programming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Read1-Multimodal Action recognition in Compressed Video</title>
       <link>/posts/multimodal-har1/</link>

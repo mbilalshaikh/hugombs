@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>topics on MBS</title>
+    <link>/categories/topics/</link>
+    <description>Recent content in topics on MBS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/categories/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>machine learning</title>
+      <link>/machine-learning/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/machine-learning/</guid>
+      <description>a brief discussion around machine learning</description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/programming/</link>
+      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

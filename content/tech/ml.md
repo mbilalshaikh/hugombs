@@ -1,5 +1,5 @@
 ---
-draft : true
+draft : false
 date : 2022-06-12T01:18:50+08:00
 title : "machine learning"
 description : "a brief discussion around machine learning"
