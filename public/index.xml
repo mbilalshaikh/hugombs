@@ -21,19 +21,6 @@ Languages : Marwari, Urdu, Sindhi, English
     </item>
     
     <item>
-      <title>About</title>
-      <link>/content/about/</link>
-      <pubDate>Fri, 20 May 2022 15:29:39 +0800</pubDate>
-      
-      <guid>/content/about/</guid>
-      <description>My name is Bilal aka mbs I belong to shahdadpur, a small city in Pakistan.
-Languages I can speak:
- Marwari (mother tongue) Sindhi (regional language) Urdu (national language) English (everyday).   Anything in brain is not real.
- Action and existance is the real happening.
-  </description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>/updates/</link>
       <pubDate>Sun, 12 Jun 2022 15:32:18 +0800</pubDate>
@@ -65,18 +52,6 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
     
     <item>
       <title>daily azkar</title>
-      <link>/content/posts/dailyzikr/</link>
-      <pubDate>Sat, 21 May 2022 20:39:05 +0800</pubDate>
-      
-      <guid>/content/posts/dailyzikr/</guid>
-      <description>Daily Azkar means the zikr that I should do on daily basis.
- First one is after fajar prayer.   After each prayer 33xSubhan Allah, 33xAlhamdulillah,34xAllah o Akbar.
-  For increase in knowledge.
-  A very powerful daily tasbeeh is 100 times Subhanallahi Wa bi hamdihi. Surah e Ikhlas equals one-third of Quran. Durood e Ibrahimi  </description>
-    </item>
-    
-    <item>
-      <title>daily azkar</title>
       <link>/posts/dailyzikr/</link>
       <pubDate>Sat, 21 May 2022 20:39:05 +0800</pubDate>
       
@@ -88,51 +63,12 @@ Using the base Vit and ViViT models, MM-ViT scored better or equally nearby scor
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/content/projects/</link>
-      <pubDate>Fri, 20 May 2022 15:32:18 +0800</pubDate>
-      
-      <guid>/content/projects/</guid>
-      <description>This page is divided into &amp;lsquo;In progress&amp;rsquo; and &amp;lsquo;Completed&amp;rsquo; sections.
-In Progress     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX MSM Analytics Portal -Azure, Web App, SQlite, DJANGO Survey paper two TMM MaiVAR extention ACCV   Completed     Sensors MDPI Survey article RGB-D Data-Based Action Recognition: A Review Monthly KPI Reporting Dashboard - Google Data Studio/Google Analytics/Wordpress Distributed Machine Learning using P300 Speller handicapped patient data mFusion- Cross platform mobile application development platform   </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Fri, 20 May 2022 15:32:18 +0800</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>This page is divided into &amp;lsquo;In progress&amp;rsquo; and &amp;lsquo;Completed&amp;rsquo; sections.
-In Progress     MSM Analytics Portal -Azure, Web App, SQlite, DJANGO Survey paper two TMM MaiVAR extention ACCV Multi representation ML/DL-based Audio/Soud classification - ESC50 Data Analysis for KPMG   Completed     MaiVAR VCIP - PyTorch, Jupyter, Sklearn, Numpy, Pandas, LateX Sensors MDPI Survey article RGB-D Data-Based Action Recognition: A Review MSM global articles integration with DOW JONES-FACTIVA Monthly KPI Reporting Dashboard - Google Data Studio/Google Analytics/Wordpress Distributed Machine Learning using P300 Speller handicapped patient data mFusion- Cross platform mobile application development platform   </description>
-    </item>
-    
-    <item>
-      <title>ECU Guild</title>
-      <link>/content/posts/hugo-coder/</link>
-      <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
-      
-      <guid>/content/posts/hugo-coder/</guid>
-      <description>ECU Guild is separate not for profit organization at my university. I currently work there is a head of postgraduate department who has 16 school reps from each school of ECU. I have to work 16 hours every fortnight for which there is some honorarium for me. I am also a senator which is by default if you are leading one of the business units, you become part of the senate.</description>
-    </item>
-    
-    <item>
       <title>ECU Guild</title>
       <link>/posts/hugo-coder/</link>
       <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
       
       <guid>/posts/hugo-coder/</guid>
       <description>ECU Guild is separate not for profit organization at my university. I currently work there is a head of postgraduate department who has 16 school reps from each school of ECU. I have to work 16 hours every fortnight for which there is some honorarium for me. I am also a senator which is by default if you are leading one of the business units, you become part of the senate.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Coder theme</title>
-      <link>/content/posts/ecu-guild/</link>
-      <pubDate>Fri, 20 May 2022 12:11:35 +0800</pubDate>
-      
-      <guid>/content/posts/ecu-guild/</guid>
-      <description>Hi today, I want to talk about my interaction with hugo coder theme. I recently came across linkedin profile of a specialist data engineer, who is also instructor for some bootcamps and speaker at data related events. On his linkedin, he mentioned certain technologies which he uses for creating world class data architectures.
-For everything, he shared his professional website url. I liked this idea of having a separate page on the web where you can simply talk about what you can offer.</description>
     </item>
     
     <item>
@@ -151,15 +87,6 @@ For everything, he shared his professional website url. I liked this idea of hav
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>  Have any question you want answered?   Have a project or startup you would like to work on together?  Just use the form below to reach to me. Name    Your email     Message    Send   </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/content/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/content/contact/</guid>
       <description>  Have any question you want answered?   Have a project or startup you would like to work on together?  Just use the form below to reach to me. Name    Your email     Message    Send   </description>
     </item>
     

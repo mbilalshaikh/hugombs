@@ -5,9 +5,6 @@
     <loc>/about/</loc>
     <lastmod>2022-05-20T15:29:39+08:00</lastmod>
   </url><url>
-    <loc>/content/about/</loc>
-    <lastmod>2022-05-20T15:29:39+08:00</lastmod>
-  </url><url>
     <loc>/updates/</loc>
     <lastmod>2022-06-12T15:32:18+08:00</lastmod>
   </url><url>
@@ -35,31 +32,13 @@
     <loc>/tags/</loc>
     <lastmod>2022-05-30T19:34:52+08:00</lastmod>
   </url><url>
-    <loc>/content/</loc>
-    <lastmod>2022-05-21T20:39:05+08:00</lastmod>
-  </url><url>
-    <loc>/content/posts/dailyzikr/</loc>
-    <lastmod>2022-05-21T20:39:05+08:00</lastmod>
-  </url><url>
     <loc>/posts/dailyzikr/</loc>
     <lastmod>2022-05-21T20:39:05+08:00</lastmod>
   </url><url>
     <loc>/tags/routine/</loc>
     <lastmod>2022-05-21T20:39:05+08:00</lastmod>
   </url><url>
-    <loc>/content/projects/</loc>
-    <lastmod>2022-05-20T15:32:18+08:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2022-05-20T15:32:18+08:00</lastmod>
-  </url><url>
-    <loc>/content/posts/hugo-coder/</loc>
-    <lastmod>2022-05-20T12:11:35+08:00</lastmod>
-  </url><url>
     <loc>/posts/hugo-coder/</loc>
-    <lastmod>2022-05-20T12:11:35+08:00</lastmod>
-  </url><url>
-    <loc>/content/posts/ecu-guild/</loc>
     <lastmod>2022-05-20T12:11:35+08:00</lastmod>
   </url><url>
     <loc>/posts/ecu-guild/</loc>
@@ -68,8 +47,6 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/contact/</loc>
-  </url><url>
-    <loc>/content/contact/</loc>
   </url><url>
     <loc>/series/</loc>
   </url>
