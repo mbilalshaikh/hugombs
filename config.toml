@@ -11,8 +11,19 @@ enableEmoji = true
 # Enable Disqus comments
 disqusShortname = "@mohammadbilalshaikh"
 
+
+[permalinks]
+blog = "/blog/:year/:month/:slug/"
+
+[related]
+threshold = 80 
+includeNewer = true
+[[related.indices]]
+name = "keywords"
+
+
 [params]
-author = "Muhammad Bilal Shaikh1"
+author = "Muhammad Bilal Shaikh"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "John Doe's personal website"
 keywords = "blog,developer,personal"
