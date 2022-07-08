@@ -6,7 +6,16 @@
     <description>Recent content in Teches on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>machine learning</title>
+      <link>/machine-learning/</link>
+      <pubDate>Tue, 14 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/machine-learning/</guid>
+      <description>a brief discussion around machine learning</description>
+    </item>
+    
     <item>
       <title>data analyst</title>
       <link>/tech/da/</link>
@@ -32,15 +41,6 @@
       
       <guid>/tech/ds/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>/machine-learning/</link>
-      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
-      
-      <guid>/machine-learning/</guid>
-      <description>a brief discussion around machine learning</description>
     </item>
     
     <item>

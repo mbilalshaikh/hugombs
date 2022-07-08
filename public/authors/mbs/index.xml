@@ -6,7 +6,26 @@
     <description>Recent content on MBS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jun 2022 01:18:50 +0800</lastBuildDate><atom:link href="/authors/mbs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 00:11:13 +1000</lastBuildDate><atom:link href="/authors/mbs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>two calendars</title>
+      <link>/posts/calendar/</link>
+      <pubDate>Sat, 09 Jul 2022 00:11:13 +1000</pubDate>
+      
+      <guid>/posts/calendar/</guid>
+      <description>I follow two calendars since my childhood. (1) modern day solar calendar (gregorian) and (2) the lunar islamic calendar.
+They have commonalities such they both are divided into 12 months although months have different days limit. For example, Moharram the first islamic month will have two fortnights which equals 28 days while the first the gregorian month january will have 31 days. This inequality increases the date difference of almost 12 days each year.</description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/machine-learning/</link>
+      <pubDate>Tue, 14 Jun 2022 01:18:50 +0800</pubDate>
+      
+      <guid>/machine-learning/</guid>
+      <description>a brief discussion around machine learning</description>
+    </item>
+    
     <item>
       <title>data analyst</title>
       <link>/tech/da/</link>
@@ -32,15 +51,6 @@
       
       <guid>/tech/ds/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>/machine-learning/</link>
-      <pubDate>Sun, 12 Jun 2022 01:18:50 +0800</pubDate>
-      
-      <guid>/machine-learning/</guid>
-      <description>a brief discussion around machine learning</description>
     </item>
     
     <item>
