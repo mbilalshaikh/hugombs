@@ -8,6 +8,16 @@ layout: "single"
 
 This page follows chronological order, i.e., the newest item comes first.
 
+## News
+
+[6th Sept 2022] TPC Member CSNT 2023 (IEEE 12th International Conference on Communication Systems and Network Technologies (CSNT), Bhopal, India    
+[2nd Sept 2022] Reviewer BMVC 2022 (British Machine Vision Conference, London, UK  
+[1st Sept 2022] Regular Technical Paper Accepted @ VCIP 2022 (IEEE International Conference on Visual Communications and Image Processing, Suzhuo, China  
+[2nd Sept 2022] Reviewer IEEE Access (British Machine Vision Conference, London, UK 
+[2nd Sept 2022] Reviewer IEEE Access (British Machine Vision Conference, London, UK 
+
+
+
 ## Upcoming
 
 ### [WACV 2023](https://wacv2022.thecvf.com/home)
