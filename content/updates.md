@@ -19,9 +19,12 @@ ISSN/eISSN: 2405-6456 / 2405-6464, Publisher: IOS PRESS, Region: Netherlands Q4 
 [2nd Sept 2022] Reviewer IEEE Access   
 [7-10 Aug 2022] Attended OxML Health Summer School, University of Oxford, London, UK (Online)  
 [11-14 Aug 2022] Attended OxML Finance Summer School, University of Oxford, London, UK (Online)  
-[10-15 Aug 2022] Attended IEEE SYWL 2022 Conference, Jeju Island, South Korea  
-
-
+[10-15 Aug 2022] Attended IEEE SYWL 2022 Conference, Jeju Island, South Korea
+2021   
+2020         
+2019   
+2018    
+[19 Nov 2018] Started my PhD from Edith Cowan University, Perth, Australia   
 
 
 ## Upcoming
