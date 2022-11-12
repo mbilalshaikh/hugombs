@@ -9,15 +9,17 @@ layout: "single"
 This page follows chronological order, i.e., the newest item comes first.
 
 ## News
-
+[12th Nov 2022] Review on survey paper submitted to Web Intelligence,  
+ISSN/eISSN: 2405-6456 / 2405-6464, Publisher: IOS PRESS, Region: Netherlands Q4 2021(Computer Science, Artificial Intelligence 181/190)
+[2nd Nov 2022]  Paper accepted for AJCAI 2022 Doctoral Consortium, Perth, Australia [Conference date 5-9 Dec 2022], Accepted as Full time student volunteer for the conference.
 [6th Sept 2022] TPC Member CSNT 2023 (IEEE 12th International Conference on Communication Systems and Network Technologies (CSNT), Bhopal, India    
 [2nd Sept 2022] Reviewer BMVC 2022 (British Machine Vision Conference, London, UK  
 [1st Sept 2022] Regular Technical Paper Accepted @ VCIP 2022 (IEEE International Conference on Visual Communications and Image Processing, Suzhuo, China  
 [2nd Sept 2022] Reviewer IEEE Access   
 [2nd Sept 2022] Reviewer IEEE Access   
-[7-10 Aug 2022] OxML Health Summer School, London, UK (Online)
-[11-14 Aug 2022] OxML Finance Summer School, London, UK (Online)
-[11-14 Aug 2022] IEEE SYWL 2022 Conference, South Korea
+[7-10 Aug 2022] Attended OxML Health Summer School, University of Oxford, London, UK (Online)  
+[11-14 Aug 2022] Attended OxML Finance Summer School, University of Oxford, London, UK (Online)  
+[10-15 Aug 2022] Attended IEEE SYWL 2022 Conference, Jeju Island, South Korea  
 
 
 

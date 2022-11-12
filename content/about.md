@@ -49,3 +49,17 @@ This section is divided into ['In progress'](#in-progress) and ['Completed'](#co
 * mFusion- Cross platform mobile application development platform
 
 ***
+
+
+### Profiles
+* ORCID: https://orcid.org/0000-0001-9042-5018
+* Publon: 
+* Scopus: https://www.scopus.com/authid/detail.uri?authorId=57224684038#
+* LinkedIn:
+* Facebook:
+* ResearchGate:
+* Google Scholar: https://scholar.google.com/citations?user=JB922M4AAAAJ&hl=en 
+* Kaggle:
+* GitHub: https://github.com/mbilalshaikh
+* StackOverFlow: 
+* Twitter: https://twitter.com/onlyBilalShaikh
